@@ -1,0 +1,9 @@
+API ID:3247449
+Description:HTTP API, created 08/07/2010
+Required Parameters:user=gre.gaurav@gmail.com
+password=<Clickatell Account Password>
+api_id=3247449
+to=<Mobile Number(s)> (comma separated)
+text=<SMS Message>
+
+Example String:http://api.clickatell.com/http/sendmsg?user=gre.gaurav%40gmail.com&password=PASSWORD&api_id=3247449&to=1323580300&text=Message
